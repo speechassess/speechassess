@@ -1,6 +1,6 @@
 # Universal Speech Assessment Model
 
-This repository aims to collect all available speech asessment models with the github page including speech quality and intelligibility prediction models.
+This repository aims to collect all available speech asessment models (with the github page) including speech quality and intelligibility prediction models.
 
 ## Speech Quality Prediction Models
 We collect both human-based and objective-based speech quality prediction model. 
