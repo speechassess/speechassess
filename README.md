@@ -43,10 +43,11 @@ We collect both human-based and objective-based speech quality prediction model.
   - LDNet: Unified Listener Dependent Modeling in MOS Prediction for Synthetic Speech <a href="https://github.com/unilight/LDNet/blob/main/VoiceMOS_baseline_README.md" target="_blank">[code]</a>
 <a href="https://arxiv.org/pdf/2110.09103.pdf" target="_blank">[paper]</a>
 
-  - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="[https://github.com/dhimasryan/MOSA-Net-Cross-Domain](https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md)" target="_blank">[code]</a>
+  - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md" target="_blank">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a>
 
-
+  - UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022 <a href="https://github.com/sarulab-speech/UTMOS22" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2204.02152" target="_blank">[paper]</a>
 
 
 
