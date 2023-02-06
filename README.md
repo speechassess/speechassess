@@ -20,6 +20,9 @@ We collect both human-based and objective-based speech quality prediction model.
   - Utilizing Self-supervised Representations for MOS Prediction <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/mos_predictiont" target="_blank">[code]</a>
 <a href="https://paperswithcode.com/paper/utilizing-self-supervised-representations-for" target="_blank">[paper]</a>
 
+  - LDNet: Unified Listener Dependent Modeling in MOS Prediction for Synthetic Speech <a href="https://github.com/unilight/LDNet" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2110.09103.pdf" target="_blank">[paper]</a>
+
 - Dataset:  TMHINT-QI
 
 - Available Model:
