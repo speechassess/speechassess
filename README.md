@@ -50,6 +50,10 @@ We collect both human-based and objective-based speech quality prediction model.
 <a href="https://arxiv.org/pdf/2204.02152" target="_blank">[paper]</a>
 
 
+- Dataset:  Non-intrusive Objective Speech Quality Assessment (NISQA) Challenge for Online Conferencing Applications
+
+- Available Model:
+
 
 
 <!--
