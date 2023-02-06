@@ -11,13 +11,13 @@ We collect both human-based and objective-based speech quality prediction model.
 
 - Available Model : 
 
-- MOSNet: Deep Learning based Objective Assessment for Voice Conversion <a href="https://github.com/lochenchou/MOSNet" target="_blank">[code]</a>
+  - MOSNet: Deep Learning based Objective Assessment for Voice Conversion <a href="https://github.com/lochenchou/MOSNet" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/1904.08352" target="_blank">[paper]</a>
 
-- MBNet: MOS Prediction for Synthesized Speech with Mean-Bias Network <a href="https://github.com/sky1456723/Pytorch-MBNet" target="_blank">[code]</a>
+  - MBNet: MOS Prediction for Synthesized Speech with Mean-Bias Network <a href="https://github.com/sky1456723/Pytorch-MBNet" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2103.00110" target="_blank">[paper]</a>
 
-- Utilizing Self-supervised Representations for MOS Prediction <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/mos_predictiont" target="_blank">[code]</a>
+  - Utilizing Self-supervised Representations for MOS Prediction <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/mos_predictiont" target="_blank">[code]</a>
 <a href="https://paperswithcode.com/paper/utilizing-self-supervised-representations-for" target="_blank">[paper]</a>
 
 
