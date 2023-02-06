@@ -33,6 +33,18 @@ We collect both human-based and objective-based speech quality prediction model.
   - InQSS: a speech intelligibility and quality assessment model using a multi-task learning network <a href="https://github.com/yuwchen/InQSS" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2111.02585" target="_blank">[paper]</a>
 
+- Dataset:  VoiceMOS Challenge
+
+- Available Model:
+
+  - Generalization Ability of MOS Prediction Networks <a href="https://github.com/nii-yamagishilab/mos-finetune-ssl/blob/main/VoiceMOS_baseline_README.md" target="_blank">[code]</a>
+<a href="https://arxiv.org/abs/2110.02635" target="_blank">[paper]</a>
+
+  - LDNet: Unified Listener Dependent Modeling in MOS Prediction for Synthetic Speech <a href="https://github.com/unilight/LDNet/blob/main/VoiceMOS_baseline_README.md" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2110.09103.pdf" target="_blank">[paper]</a>
+
+  - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="[https://github.com/dhimasryan/MOSA-Net-Cross-Domain](https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md)" target="_blank">[code]</a>
+<a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a>
 
 
 
