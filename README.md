@@ -115,7 +115,7 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
   - InQSS: a speech intelligibility and quality assessment model using a multi-task learning network <a href="https://github.com/yuwchen/InQSS" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2111.02585" target="_blank">[paper]</a>
 
-- MTI-Net: A Multi-Target Speech Intelligibility Prediction Model <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
+  - MTI-Net: A Multi-Target Speech Intelligibility Prediction Model <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2204.03310" target="_blank">[paper]</a>
 
 ### B. Task: Hearing Aids
@@ -127,3 +127,10 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
   - MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction
 Model for Hearing Aids <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
 <a href="https://arxiv.org/pdf/2204.03305.pdf" target="_blank">[paper]</a>
+
+### 2. Objective-based Speech Intelligibility Prediction
+### A. Task: Speech Enhancement 
+
+  - STOI-Net: A Deep Learning based Non-Intrusive Speech Intelligibility Assessment Model <a href="https://github.com/dhimasryan/STOI-Net" target="_blank">[code]</a>
+<a href="https://arxiv.org/abs/2011.04292" target="_blank">[paper]</a>
+
