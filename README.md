@@ -77,7 +77,7 @@ Assessment (NISQA) Challenge for Online Conferencing Applications <a href="https
 <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/yi22b_interspeech.pdf" target="_blank">[paper]</a>
 
 ### 2. Objective-based Speech Quality Prediction
-The objective based-speech quality prediction uses signal-processing based quality metrics as the ground truth label, for example: Perceptual Evaluation of Speech Quality (PESQ).
+The objective-based-speech quality prediction uses signal-processing-based quality metrics as the ground truth label, for example, Perceptual Evaluation of Speech Quality (PESQ).
 
 ### A. Task: Speech Enhancement 
 - Dataset: TIMIT Corpus
@@ -86,4 +86,10 @@ The objective based-speech quality prediction uses signal-processing based quali
   - Quality-Net: An End-to-End Non-intrusive Speech Quality Assessment Model
 based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank">[code]</a>
 <a href="https://arxiv.org/ftp/arxiv/papers/1808/1808.05344.pdf" target="_blank">[paper]</a>
+
+- Dataset: WSJ Corpus
+
+  Available Model:
+  - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md" target="_blank">[code]</a>
+<a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a
 
