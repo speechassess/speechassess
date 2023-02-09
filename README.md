@@ -25,6 +25,13 @@ The human-based speech quality prediction generally aims to predict mean opinion
   - LDNet: Unified Listener Dependent Modeling in MOS Prediction for Synthetic Speech <a href="https://github.com/unilight/LDNet" target="_blank">[code]</a>
 <a href="https://arxiv.org/pdf/2110.09103.pdf" target="_blank">[paper]</a>
 
+- Dataset:  Blizzard Challeng
+
+  Available Model: 
+
+  - Deep Learning Based Assessment of Synthetic Speech Naturalness <a href="https://github.com/gabrielmittag/NISQA" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2104.11673.pdf" target="_blank">[paper]</a>
+
 - Dataset:  VoiceMOS Challenge
 
   Available Model:
@@ -56,12 +63,17 @@ The human-based speech quality prediction generally aims to predict mean opinion
 - Dataset:  Non-intrusive Objective Speech Quality Assessment (NISQA) Challenge for Online Conferencing Applications
 
 ### Task: Teleconference
+- Dataset: ConferencingSpeech2022 Datasets
 
-- Available Model:
+  Available Model:
   - ConferencingSpeech 2022 Challenge: Non-intrusive Objective Speech Quality
 Assessment (NISQA) Challenge for Online Conferencing Applications <a href="https://github.com/ConferencingSpeech/ConferencingSpeech2022" target="_blank">[code]</a>
 <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/yi22b_interspeech.pdf" target="_blank">[paper]</a>
 
+- Dataset: NISQA Corpus
 
-
+  Available Model:
+  NISQA: 
+  - A Deep CNN-Self-Attention Model for Multidimensional Speech Quality Prediction with Crowdsourced Datasets <a href="https://github.com/gabrielmittag/NISQA" target="_blank">[code]</a>
+<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/mittag21_interspeech.pdf" target="_blank">[paper]</a>  
 
