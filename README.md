@@ -62,6 +62,13 @@ The human-based speech quality prediction generally aims to predict mean opinion
 
 
 ### C. Task: Teleconference
+- Dataset: NISQA Corpus
+
+  Available Model:
+  NISQA: 
+  - A Deep CNN-Self-Attention Model for Multidimensional Speech Quality Prediction with Crowdsourced Datasets <a href="https://github.com/gabrielmittag/NISQA" target="_blank">[code]</a>
+<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/mittag21_interspeech.pdf" target="_blank">[paper]</a>  
+
 - Dataset: ConferencingSpeech2022 Datasets
 
   Available Model:
@@ -69,10 +76,14 @@ The human-based speech quality prediction generally aims to predict mean opinion
 Assessment (NISQA) Challenge for Online Conferencing Applications <a href="https://github.com/ConferencingSpeech/ConferencingSpeech2022" target="_blank">[code]</a>
 <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2022/yi22b_interspeech.pdf" target="_blank">[paper]</a>
 
-- Dataset: NISQA Corpus
+### 2. Objective-based Speech Quality Prediction
+The objective based-speech quality prediction uses signal-processing based quality metrics as the ground truth label, for example: Perceptual Evaluation of Speech Quality (PESQ).
+
+### A. Task: Speech Enhancement 
+- Dataset: TIMIT Corpus
 
   Available Model:
-  NISQA: 
-  - A Deep CNN-Self-Attention Model for Multidimensional Speech Quality Prediction with Crowdsourced Datasets <a href="https://github.com/gabrielmittag/NISQA" target="_blank">[code]</a>
-<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/mittag21_interspeech.pdf" target="_blank">[paper]</a>  
+  - Quality-Net: An End-to-End Non-intrusive Speech Quality Assessment Model
+based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank">[code]</a>
+<a href="https://arxiv.org/ftp/arxiv/papers/1808/1808.05344.pdf" target="_blank">[paper]</a>
 
