@@ -93,3 +93,10 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
   - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md" target="_blank">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a
 
+### C. Task: Hearing Aids
+  HASA-NET: A NON-INTRUSIVE HEARING-AID SPEECH ASSESSMENT NETWORK
+- Dataset: TIMIT Corpus
+
+  Available Model:
+  - HASA-net: A non-intrusive hearing-aid speech assessment network <a href="https://github.com/sophie091524/HASA-Net-A-non-intrusive-hearing-aid-speech-assessment-network" target="_blank">[code]</a>
+<a href="https://arxiv.org/abs/2111.05691" target="_blank">[paper]</a>
