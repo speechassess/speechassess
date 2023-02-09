@@ -103,7 +103,7 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
 
 ## Speech Intelligibility Prediction Models
 ### 1. Human-based Speech Intelligibility Prediction
-### B. Task: Speech Enhancement
+### A. Task: Speech Enhancement
 
 - Dataset:  TMHINT-QI
 
@@ -119,3 +119,11 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
 <a href="https://arxiv.org/abs/2204.03310" target="_blank">[paper]</a>
 
 ### B. Task: Hearing Aids
+- Dataset:  Clarity Challenge
+
+  - The 1st Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction <a href=" https://github.com/claritychallenge/clarity_CC/tree/master/clarity_CPC1" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2204.03305.pdf" target="_blank">[paper]</a>
+  
+  - MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction
+Model for Hearing Aids <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2204.03305.pdf" target="_blank">[paper]</a>
