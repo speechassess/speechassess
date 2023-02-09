@@ -100,3 +100,5 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
   Available Model:
   - HASA-net: A non-intrusive hearing-aid speech assessment network <a href="https://github.com/sophie091524/HASA-Net-A-non-intrusive-hearing-aid-speech-assessment-network" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2111.05691" target="_blank">[paper]</a>
+
+## Speech Intelligibility Prediction Models
