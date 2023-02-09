@@ -91,7 +91,7 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
 
   Available Model:
   - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md" target="_blank">[code]</a>
-<a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a
+<a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a>
 
 ### C. Task: Hearing Aids
   HASA-NET: A NON-INTRUSIVE HEARING-AID SPEECH ASSESSMENT NETWORK
