@@ -8,7 +8,7 @@ We collect both human-based and objective-based speech quality prediction model.
 ### 1. Human-based Speech Quality Prediction
 The human-based speech quality prediction generally aims to predict mean opinion scores from several listeners. Nowadays, several benchmark datasets are interestingly designed for different speech processing applications; for example, in speech enhancement tasks, the speech assessment model aims to predict the quality of enhanced speech which has performed noise reduction to remove the noise parts.
 
-### Task: Voice Conversion/ Text-to-Speech
+### A. Task: Voice Conversion/ Text-to-Speech
 - Dataset:  VCC2018 
 
   Available Model : 
@@ -25,7 +25,7 @@ The human-based speech quality prediction generally aims to predict mean opinion
   - LDNet: Unified Listener Dependent Modeling in MOS Prediction for Synthetic Speech <a href="https://github.com/unilight/LDNet" target="_blank">[code]</a>
 <a href="https://arxiv.org/pdf/2110.09103.pdf" target="_blank">[paper]</a>
 
-- Dataset:  Blizzard Challeng
+- Dataset:  Blizzard Challenge
 
   Available Model: 
 
@@ -48,7 +48,7 @@ The human-based speech quality prediction generally aims to predict mean opinion
   - UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022 <a href="https://github.com/sarulab-speech/UTMOS22" target="_blank">[code]</a>
 <a href="https://arxiv.org/pdf/2204.02152" target="_blank">[paper]</a>
 
-### Task: Speech Enhancement 
+### B. Task: Speech Enhancement 
 
 - Dataset:  TMHINT-QI
 
@@ -60,9 +60,8 @@ The human-based speech quality prediction generally aims to predict mean opinion
   - InQSS: a speech intelligibility and quality assessment model using a multi-task learning network <a href="https://github.com/yuwchen/InQSS" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2111.02585" target="_blank">[paper]</a>
 
-- Dataset:  Non-intrusive Objective Speech Quality Assessment (NISQA) Challenge for Online Conferencing Applications
 
-### Task: Teleconference
+### C. Task: Teleconference
 - Dataset: ConferencingSpeech2022 Datasets
 
   Available Model:
