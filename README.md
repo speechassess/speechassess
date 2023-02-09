@@ -93,7 +93,7 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
   - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain/blob/main/VoiceMOS_Baseline_README.md" target="_blank">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a>
 
-### C. Task: Hearing Aids
+### B. Task: Hearing Aids
   HASA-NET: A NON-INTRUSIVE HEARING-AID SPEECH ASSESSMENT NETWORK
 - Dataset: TIMIT Corpus
 
@@ -102,3 +102,14 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
 <a href="https://arxiv.org/abs/2111.05691" target="_blank">[paper]</a>
 
 ## Speech Intelligibility Prediction Models
+### 1. Human-based Speech Intelligibility Prediction
+
+- Dataset:  TMHINT-QI
+
+  Available Model:
+
+  - Deep Learning-based Non-Intrusive Multi-Objective Speech Assessment Model with Cross-Domain Features <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
+<a href="https://ieeexplore.ieee.org/document/9905733" target="_blank">[paper]</a>
+
+  - InQSS: a speech intelligibility and quality assessment model using a multi-task learning network <a href="https://github.com/yuwchen/InQSS" target="_blank">[code]</a>
+<a href="https://arxiv.org/abs/2111.02585" target="_blank">[paper]</a>
