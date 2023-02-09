@@ -103,6 +103,7 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
 
 ## Speech Intelligibility Prediction Models
 ### 1. Human-based Speech Intelligibility Prediction
+### B. Task: Speech Enhancement
 
 - Dataset:  TMHINT-QI
 
@@ -113,3 +114,8 @@ based on BLSTM <a href="https://github.com/JasonSWFu/Quality-Net" target="_blank
 
   - InQSS: a speech intelligibility and quality assessment model using a multi-task learning network <a href="https://github.com/yuwchen/InQSS" target="_blank">[code]</a>
 <a href="https://arxiv.org/abs/2111.02585" target="_blank">[paper]</a>
+
+- MTI-Net: A Multi-Target Speech Intelligibility Prediction Model <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Domain" target="_blank">[code]</a>
+<a href="https://arxiv.org/abs/2204.03310" target="_blank">[paper]</a>
+
+### B. Task: Hearing Aids
